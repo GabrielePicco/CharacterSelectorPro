@@ -4,6 +4,10 @@ Online Demo of the CharacterSelectorPro Unity Asset
 
 https://assetstore.unity.com/packages/templates/systems/character-selector-pro-113136
 
+## Demo
+
+https://gabrielepicco.github.io/CharacterSelectorPro/
+
 ## Description
 
 - The Character Selector Plus package gives you an easy way to integrate a selection of a character!
